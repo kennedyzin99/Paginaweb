@@ -1,5 +1,5 @@
 body {
-    background: #CCCCCC;
+    background: #CC1CCCC;
 }
 
 p {
